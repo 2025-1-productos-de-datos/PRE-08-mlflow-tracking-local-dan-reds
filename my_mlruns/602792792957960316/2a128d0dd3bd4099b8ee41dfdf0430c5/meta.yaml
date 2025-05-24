@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/PRODUCTOS_DATOS/PRE-08-mlflow-tracking-local-dan-reds/my_mlruns/602792792957960316/2a128d0dd3bd4099b8ee41dfdf0430c5/artifacts
+end_time: 1748100209083
+entry_point_name: ''
+experiment_id: '602792792957960316'
+lifecycle_stage: active
+run_id: 2a128d0dd3bd4099b8ee41dfdf0430c5
+run_name: knn_9d8c7deb
+run_uuid: 2a128d0dd3bd4099b8ee41dfdf0430c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748100208985
+status: 3
+tags: []
+user_id: danie

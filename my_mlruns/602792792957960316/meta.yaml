@@ -1,0 +1,6 @@
+artifact_location: file:///C:/PRODUCTOS_DATOS/PRE-08-mlflow-tracking-local-dan-reds/my_mlruns/602792792957960316
+creation_time: 1748100208120
+experiment_id: '602792792957960316'
+last_update_time: 1748100208120
+lifecycle_stage: active
+name: wine_quality_experiment
